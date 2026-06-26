@@ -1,0 +1,9 @@
+boy,Bouya,subtraction,hard
+girl,Hfajsd,exponents,easy
+cat,Fasd,subtraction,medium
+cat,Hgdf,addition,medium
+girl,Jj,fractions,medium
+cat,Fasd,multiplication,hard
+girl,Fds,addition,hard
+boy,Esdd,algebra,medium
+boy,Dsas,algebra,easy
