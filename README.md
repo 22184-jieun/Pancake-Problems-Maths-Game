@@ -4,11 +4,12 @@ This is a maths game for AS91906, AS91907
 **This program uses Pygame-ce (Pygame Community Edition). Please install the module before running the code, as IT WILL NOT function otherwise.**
 **(Note that it _must_ be pygame-ce and _not_ just pygame)**
 
-Please install the fonts provided in the Assets folder prior to running the code. 
-- MonsterFriendFore
-- MonoMMM5
+Please ensure the following are installed prior to running the code:
+- MonsterFriendFore (font provided in Assets folder)
+- MonoMMM5 (font provided in Assets folder)
+- PIL
 
-Ensure that the files provided remain in their designated folders for full affect - the code will not function correctly otherwise.
+Ensure that the files provided remain in their designated folders for full effect - the code will not function correctly otherwise.
 Additionally, as this program contains music, please ensure volume is set to an appropriate level prior to running the program.
 
 Instructions & Troubleshooting
